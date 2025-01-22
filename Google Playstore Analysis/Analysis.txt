@@ -1,5 +1,5 @@
 ##Agenda
-We have Google Playstore dataset containing information of different apps installed rating, revviews, versions and other details. We are going to do analysis based on the data we have
+We have Google Playstore dataset containing information of different apps installed rating, reviews, versions and other details. We are going to do analysis based on the data we have
 Q1. Find out TOP 10 reviews gievn to the apps.
 Q2. TOP 10 installs apps and distribution of type(Free/Paid)
 Q3. Category wise distribution of installed apps
